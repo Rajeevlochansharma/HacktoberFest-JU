@@ -13,7 +13,7 @@ Fork this repo by clicking on the fork button on the top of the page. This will 
 
 ## Clone the repository
 Now clone the fork repo to your machine go to your github account open the forked repo, click on the clone button and then click on the copy to clipboard icon.
-
+## Run the commands
 Open a terminal and run the following command.
 
 ```
